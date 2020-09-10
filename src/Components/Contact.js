@@ -5,18 +5,18 @@ import JotformEmbed from "react-jotform-embed";
 
 
 const Contact = ({ data }) => {
-    const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
-    const [name, setName] = useState('');
-    const [subject, setSubject] = useState('');
-    const [email, setEmail] = useState('');
-    const [message, setMessage] = useState('');
+    // const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
+    // const [name, setName] = useState('');
+    // const [subject, setSubject] = useState('');
+    // const [email, setEmail] = useState('');
+    // const [message, setMessage] = useState('');
 
     console.log(data)
 
-    const handleClick = (e) => {
-        e.preventDefault();
-        window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
-    }
+    // const handleClick = (e) => {
+    //     e.preventDefault();
+    //     window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+    // }
 
 
     return (
@@ -71,16 +71,19 @@ const Contact = ({ data }) => {
                                 </span>
                             </div>
                         </fieldset> */}
-                        <div>
-                            <div className="ContactDiv">
-                                <div className="iframeDivWrapper">
-                                    <div className="iframeDiv">
-                                        <iframe className="iframe" id="JotFormIFrame-201731473395153" title="General Inquiry Contact Form" onload="window.parent.scrollTo(0,0)" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://form.jotform.com/201731473395153" frameborder="0"  >
-                                        </iframe>
+                        <fieldset>
+
+                            <div>
+                                <div className="ContactDiv">
+                                    <div className="iframeDivWrapper">
+                                        <div className="iframeDiv">
+                                            <iframe className="iframe" id="JotFormIFrame-201731473395153" title="General Inquiry Contact Form" onload="window.parent.scrollTo(0,0)" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://form.jotform.com/201731473395153" frameborder="0"  >
+                                            </iframe>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </fieldset>
                     </form>
 
                     <div id="message-warning"> Error boy</div>
