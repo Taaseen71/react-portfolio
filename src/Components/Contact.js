@@ -1,5 +1,9 @@
 import React, { useState } from 'react';
 
+import "./Contact.css";
+import JotformEmbed from "react-jotform-embed";
+
+
 const Contact = ({ data }) => {
     const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
     const [name, setName] = useState('');
@@ -38,7 +42,7 @@ const Contact = ({ data }) => {
                 <div className="eight columns">
 
                     <form id="contactForm" name="contactForm">
-                        <fieldset>
+                        {/* <fieldset>
 
                             <div>
                                 <label htmlFor="contactName">Name <span className="required">*</span></label>
@@ -66,7 +70,17 @@ const Contact = ({ data }) => {
                                     <img alt="" src="images/loader.gif" />
                                 </span>
                             </div>
-                        </fieldset>
+                        </fieldset> */}
+                        <div>
+                            <div className="ContactDiv">
+                                <div className="iframeDivWrapper">
+                                    <div className="iframeDiv">
+                                        <iframe className="iframe" id="JotFormIFrame-201731473395153" title="General Inquiry Contact Form" onload="window.parent.scrollTo(0,0)" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://form.jotform.com/201731473395153" frameborder="0"  >
+                                        </iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </form>
 
                     <div id="message-warning"> Error boy</div>
@@ -82,8 +96,10 @@ const Contact = ({ data }) => {
                         <h4>Address and Phone</h4>
                         <p className="address">
                             {data?.name}<br />
-                            {data?.address.street} <br />
-                            {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
+                            {/* {data?.address.street} <br /> */}
+                            {data?.email} <br />
+                            {data?.address.city} <br />
+                            {data?.address.state} - {data?.address.zip}<br />
                             <span>{data?.phone}</span>
                         </p>
                     </div>
