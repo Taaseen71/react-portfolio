@@ -15,6 +15,7 @@
 .iframeDivWrapper {
     display: flex;
     justify-content: center;
+    height: 635px;
 }
 
 .iframeDiv {

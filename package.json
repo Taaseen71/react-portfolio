@@ -8,7 +8,8 @@
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
     "react-jotform-embed": "^1.0.4",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "surge": "^0.21.6"
   },
   "scripts": {
     "start": "react-scripts start",

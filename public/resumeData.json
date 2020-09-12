@@ -1,6 +1,6 @@
 {
     "main": {
-        "name": "Saadat Taaseen",
+        "name": "Saadat",
         "occupation": "Full Stack Software Engineer primarily focused on ReactJS, MongoDB, ExpressJS and NodeJS",
         "description": "Full Stack React Developer by Day, Vocalist/Musician by Night. #ohSaad",
         "image": "ProfilePic.jpeg",
@@ -15,7 +15,7 @@
             "zip": "11429"
         },
         "website": "",
-        "resumedownload": "https://docdro.id/eJnzule",
+        "resumedownload": "https://docdro.id/ml6yODi",
         "social": [
             {
                 "name": "linkedin",
@@ -46,7 +46,7 @@
             {
                 "school": "Stony Brook University",
                 "degree": "Chemistry",
-                "graduated": "Jan 2012",
+                "graduated": "Jan 2016",
                 "description": "Bachelors of Science in Chemistry"
             }
         ],
@@ -62,6 +62,12 @@
                 "title": "Quality Control Scientist",
                 "years": "Nov. 2016​ to Feb. 2020​",
                 "description": "Perform various chemical and physical tests such as ‘High Pressure Liquid Chromatography’, ‘Dissolution’ of products in chemical media similar to digestive acids, ‘Infrared Spectrophotometry’ and various other experimental methods to ensure product quality meets the required standards for human consumption. \n Responsible for proper and immediate documentation of daily activities. \n Checking specifications to make sure chemicals are ready for release."
+            },
+            {
+                "company": "SanaTax & Bookkeeping Services",
+                "title": "Bookkeeper",
+                "years": "2014 to April 2016",
+                "description": "Organized and filed proper documentation for various client corporations. Filed taxes for small private corporations. Worked with clients to ensure correct information during archiving and for future needs. Using all available information to file taxes for the fiscal year for those same clients."
             }
         ],
         "skills": [
@@ -87,7 +93,7 @@
             },
             {
                 "name": "CSS3",
-                "level": "95%"
+                "level": "90%"
             },
             {
                 "name": "Git",
@@ -136,12 +142,12 @@
     "testimonials": {
         "testimonials": [
             {
-                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-                "user": "Kareem Abdul Jabbar"
+                "text": "",
+                "user": ""
             },
             {
-                "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-                "user": "Steve Wozniak... impersonator"
+                "text": "",
+                "user": ""
             }
         ]
     }
