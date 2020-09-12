@@ -1,6 +1,6 @@
 {
     "main": {
-        "name": "Saadat",
+        "name": "Saadat Taaseen",
         "occupation": "Full Stack Software Engineer primarily focused on ReactJS, MongoDB, ExpressJS and NodeJS",
         "description": "Full Stack React Developer by Day, Vocalist/Musician by Night. #ohSaad",
         "image": "ProfilePic.jpeg",
@@ -35,7 +35,7 @@
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "I am a recent Bootcamp Graduate from General Assembly.  I excel in frameworks such as React, Node, Ruby On Rails, Firebase and databases such as MongoDB and PostgreSQL. I have experience building websites with full CRUD and authentication, and am passionate about coding.",
         "education": [
             {
                 "school": "General Assembly",
