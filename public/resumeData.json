@@ -109,31 +109,31 @@
         "projects": [
             {
                 "title": "JavaScript: Pokedex",
-                "category": "This was my first project, and I wanted to apply all the information I learned in 3 weeks. The goal was to make it visually appealing, without compromising functionality, and since this API was solid, it meant the code was less likely to break anytime soon. The project was made with three weeks worth of knowledge of Javascript, and made with only Vanilla JS",
+                "category": "The project was made with three weeks worth of knowledge of Javascript, and made with only Vanilla JS, HTML and CSS. This was my first project, and I wanted to apply all the information I learned in 3 weeks.",
                 "image": "Pokedex.png",
                 "url": "https://taaseen71.github.io/SaadsPokedex/"
             },
             {
                 "title": "CoVid19 Tracker",
-                "category": "This webpage shows the total cases, daily cases, deaths and recoveries, both globally and by country.  I used an 'npmjs' package to display graphs for visual comparison. The application consisted of algorithms used to separate the date and time which was displayed together, and focused more on functionality and displaying information.",
+                "category": "This webpage shows the total cases, daily cases, deaths and recoveries, both globally and by country.",
                 "image": "CoVid19.png",
                 "url": "https://0hsaad-covid19.netlify.app/"
             },
             {
                 "title": "Instagram Clone",
-                "category": "Instagram Clone created",
+                "category": "Instagram Clone created using a React front-end and  Firebase for Database and Authentication.",
                 "image": "Instagram.png",
                 "url": "https://instaclone-saad.netlify.app/"
             },
             {
                 "title": "Shipt Clone",
-                "category": "Shipt Clone Created",
+                "category": "Shipt Clone was created with a group of 3 other develops under strict instructions from a UX/UI developer team. Used the MERN stack to build this application.",
                 "image": "ShiptDev.png",
                 "url": "http://shiptdev.surge.sh/"
             },
             {
                 "title": "ReadIt (Social Media Clone)",
-                "category": "Ruby On Rails backend",
+                "category": "Inspiration taken from Reddit, Website uses full CRUD functionalities and use of Authentication to create and comment on posts. This Project uses React Front end and Ruby On Rails backend.",
                 "image": "ReadIt.png",
                 "url": "https://read-it-saad1.surge.sh/"
             }
