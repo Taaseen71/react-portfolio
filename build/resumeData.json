@@ -4,7 +4,7 @@
         "occupation": "Full Stack Software Engineer primarily focused on ReactJS, MongoDB, ExpressJS and NodeJS",
         "description": "Full Stack React Developer by Day, Vocalist/Musician by Night. #ohSaad",
         "image": "ProfilePic.jpeg",
-        "bio": "My name is Saadat, I'm a Full Stack ReactJS, and NodeJS Developer. Currently I'm working on making myself better as a programmer by doing Freelance work and creating mock websites.",
+        "bio": "My name is Saadat. I am a recent Bootcamp Graduate from General Assembly. I excel in frameworks such as React, Node, Ruby On Rails, Firebase and databases such as MongoDB and PostgreSQL and I have experience building websites with full CRUD and authentication. Before GA, I worked as a Chemist at a Pharmaceutical Company. I realised that there was no growth opportunity in the occupation I was in, and wanted to use my intellect to be able to build a better life for myself, and help others achieve their goals. After I got laid off due the company's financial drought right before the CoVid19 pandemic, I decided to use the quarantine period to learn coding and improve on my skills. I am grateful and proud for being able to step outside my comfort zone and pursue something that I actually enjoy. I'm passionate about coding and love to challenge myself to learn more and improve my skillset everyday.",
         "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
         "email": "saadat.taaseen@gmail.com",
         "phone": "(347) 600 - 4353",
@@ -15,7 +15,7 @@
             "zip": "11429"
         },
         "website": "",
-        "resumedownload": "https://docdro.id/ml6yODi",
+        "resumedownload": "https://drive.google.com/file/d/1QgbdqWF-zl8slEduv3aDRZiG0QEMRZ3e/view?usp=sharing",
         "social": [
             {
                 "name": "linkedin",
@@ -35,7 +35,7 @@
         ]
     },
     "resume": {
-        "skillmessage": "I am a recent Bootcamp Graduate from General Assembly.  I excel in frameworks such as React, Node, Ruby On Rails, Firebase and databases such as MongoDB and PostgreSQL. I have experience building websites with full CRUD and authentication, and am passionate about coding.",
+        "skillmessage": "I am a recent Bootcamp Graduate from General Assembly. I have experience in frameworks such as React, Node, Ruby On Rails, Firebase and databases such as MongoDB and PostgreSQL and have experience building websites with full CRUD and authentication.",
         "education": [
             {
                 "school": "General Assembly",
