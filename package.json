@@ -1,6 +1,4 @@
 {
-      "name": "personalportfolio",
-      "version": "0.1.0",
       "private": true,
       "dependencies": {
             "jquery": "^3.5.1",
