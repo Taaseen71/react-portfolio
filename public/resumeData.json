@@ -15,7 +15,7 @@
             "zip": "11429"
         },
         "website": "",
-        "resumedownload": "https://drive.google.com/file/d/1QgbdqWF-zl8slEduv3aDRZiG0QEMRZ3e/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1zD5-4m-LA_UD5q_Zr9to_RGbt3EIA5um/view?usp=sharing",
         "social": [
             {
                 "name": "linkedin",
@@ -107,6 +107,18 @@
     },
     "portfolio": {
         "projects": [
+            {
+                "title": "React-Native Image Display",
+                "category": "My first React Native app. With no prior knowledge on how to create React-Native apps, the goal was to explore the differences in development compared to ReactJS. Full Stack Build ",
+                "image": "React-Native Image Display.png",
+                "url": "https://expo.io/@taaseen71/projects/reactNativeImageDisplay"
+            },
+            {
+                "title": "React-Music-App",
+                "category": "This application was created from scratch. The application uses stored data to play music, presented in a beautiful User Experience. Front-End Build",
+                "image": "Saad-Music-App.png",
+                "url": "https://saad-music-app.netlify.app/"
+            },
             {
                 "title": "JavaScript: Pokedex",
                 "category": "The project was made with three weeks worth of knowledge of Javascript, and made with only Vanilla JS, HTML and CSS. This was my first project, and I wanted to apply all the information I learned in 3 weeks.",
