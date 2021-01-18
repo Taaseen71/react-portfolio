@@ -1,1 +1,1 @@
-saadt.surge.sh
+saadt.netlify.app
