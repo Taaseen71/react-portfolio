@@ -108,6 +108,12 @@
     "portfolio": {
         "projects": [
             {
+                "title": "Compostrack, Webdesign for easy composting",
+                "category": "Created this project in a Hackathon with 5 UX designers and an additional developer. Website has Auth, Maps, a database and a working backend.",
+                "image": "compostrack-website.png",
+                "url": "https://compostrack.netlify.app"
+            },
+            {
                 "title": "React-Native Image Display",
                 "category": "My first React Native app. With no prior knowledge on how to create React-Native apps, the goal was to explore the differences in development compared to ReactJS. Full Stack Build ",
                 "image": "React-Native Image Display.png",
