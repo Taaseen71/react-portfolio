@@ -52,15 +52,21 @@
         ],
         "work": [
             {
+                "company": "Tred Earth Limited",
+                "title": "Software Developer Intern",
+                "years": "March 2021 to Present",
+                "description": "Producing efficient and elegant code based on requirements.\nTesting and deploying programs and applications.\nTroubleshooting, debugging, maintaining and improving existing software.\nCompiling and assessing user feedback to improve software performance."
+            },
+            {
                 "company": "General Assembly",
                 "title": "Software Engineering Fellow",
-                "years": "Feb. 2020​ to June 2020​",
+                "years": "Feb. 2020 to June 2020",
                 "description": "Completed 18 weeks of Full Stack Web Development training.\nCreated backend servers to contain RESTful APIs, which can be used by front-end frameworks.\nUtilized Model-View-Controller method to build full stack web applications \nCollaborated with UX/UI designers to build a functional website with full CRUD and Authentication \nAccessed multiple third-party-APIs to create a visually appealing website that portrays the information in a cohesive manner."
             },
             {
                 "company": "Akorn Pharmaceuticals",
                 "title": "Quality Control Scientist",
-                "years": "Nov. 2016​ to Feb. 2020​",
+                "years": "Nov. 2016 to Feb. 2020",
                 "description": "Perform various chemical and physical tests such as ‘High Pressure Liquid Chromatography’, ‘Dissolution’ of products in chemical media similar to digestive acids, ‘Infrared Spectrophotometry’ and various other experimental methods to ensure product quality meets the required standards for human consumption. \n Responsible for proper and immediate documentation of daily activities. \n Checking specifications to make sure chemicals are ready for release."
             },
             {
